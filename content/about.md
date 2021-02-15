@@ -6,45 +6,29 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
+    headline: We are Goodberry
     subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+      A trio of sibling nerds - a retro-modder, a D&D dice enthusiast, and a competitive Smash Bro's player.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: We love making things
         description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+          Through our powers combined, we decided to pull together our love of making to create the ultimate casts/mods for each of our respective passions. And thus Goodberry Mods was formed - to make custom buttons for retro modders, bling for Smash players, and the prettiest of pretty dice to satisfy even the most scrupulous of dice collectors.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: We think quality is paramount
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+          Our biggest focus is ensuring what we make not only looks good, but **feels** good too. Sure there are plenty of Chinese made versions of our products you can buy for pennies off e-bay or Aliexpress, but we guarantee that when you get our lovingly hand made stuff that they'll feel and look like magic in your hands.
         image: images/team.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: primary
-      arrow: true
+    # - type: promotion_section
+    #   section_id: promotion_section
+    #   title: A new home interior for summer
+    #   subtitle: from $149.99
+    #   image: images/promo.jpg
+    #   background_image: /images/leaf.svg
+    # cta:
+    #   title: Discover
+    #   url: /store
+    #   style: primary
+    #   arrow: true
 ---

@@ -8,10 +8,9 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >-
-      # Real, beautiful plants right to your door
+      # Ready to bling out your game style?
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Our custom cast goodies will set you apart from the crowd
     actions:
       - title: See all items
         url: /store
@@ -49,15 +48,15 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
+  # - type: promotion_section
+  #   section_id: promotion_section
+  #   title: A new home interior for summer
+  #   subtitle: from $149.99
+  #   image: images/promo.jpg
+  #   background_image: images/leaf.svg
+  #   cta:
+  #     title: Discover
+  #     url: /store
+  #     style: secondary
+  #     arrow: true
 ---

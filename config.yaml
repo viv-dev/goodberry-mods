@@ -1,17 +1,17 @@
-title: Planty
+title: Goodberry Mods
 baseURL: /
 params:
-  favicon: images/favicon.png
-  logo_dark: images/logo.svg
-  logo_light: images/logo-white.svg
+  favicon: images/favicon.svg
+  logo_dark: images/logo-text-horizontal-black.svg
+  logo_light: images/logo-text-horizontal.svg
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg
   bg_image_primary_opacity: 60
   bg_image_secondary: /images/leaf-light-grey.svg
   bg_image_product: /images/leaf.svg
-  snipcart_api_key: ''
-  footer_text: Copyright 2021 Planty Inc. All rights reserved.
-  palette: green
+  snipcart_api_key: 'NWEyMGNmZGEtYjAzZS00NWUwLWIwNjMtMWNkNzEwZTlhMGJmNjM3NDgzNTMyOTc2MTkzNDEw'
+  footer_text: Copyright 2021 Goodberry Mods. All rights reserved.
+  palette: purple
   main_menu:
     - title: Store
       url: /store
